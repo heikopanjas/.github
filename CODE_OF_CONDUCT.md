@@ -1,14 +1,14 @@
 # CODE OF CONDUCT
 
-We apply the rules of the Berlin Code of Conduct <sup>[1](#berlin_coc)</sup>
+I apply the rules of the Berlin Code of Conduct <sup>[1](#berlin_coc)</sup>
 
 In addition, the following policies apply without exception to all current and future participants:
 
-## Ultralove Open Source Code of Conduct
+## Open Source Code of Conduct
 
-This code of conduct outlines expectations for participation in Ultralove open source communities, as well as steps for reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
+This code of conduct outlines expectations for participation in this open source community, as well as steps for reporting unacceptable behavior. I am committed to providing a welcoming and inspiring community for all. People violating this code of conduct may be banned from the community.
 
-Our open source communities strive to:
+My open source community strives to:
 
 ### Be friendly and patient
 
@@ -16,11 +16,11 @@ Remember you might not be communicating in someone else's primary spoken or prog
 
 ### Be welcoming
 
-Our communities welcome and support people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
+My community welcomes and supports people of all backgrounds and identities. This includes, but is not limited to members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, size, family status, political belief, religion, and mental and physical ability.
 
 ### Be respectful
 
-We are a community of professionals, and we conduct ourselves professionally. Disagreement is no excuse for poor behavior and poor manners. Disrespectful and unacceptable behavior includes, but is not limited to:
+I maintain a community of professionals, and I expect professional conduct. Disagreement is no excuse for poor behavior and poor manners. Disrespectful and unacceptable behavior includes, but is not limited to:
 
 - Violent threats or language.
 - Discriminatory or derogatory jokes and language.
@@ -33,24 +33,24 @@ We are a community of professionals, and we conduct ourselves professionally. Di
 ### Understand disagreements
 
 Disagreements, both social and technical, are useful learning opportunities. Seek to understand the other viewpoints and resolve differences constructively.
-This code is not exhaustive or complete. It serves to capture our common understanding of a productive, collaborative environment. We expect the code to be followed in spirit as much as in the letter.
+This code is not exhaustive or complete. It serves to capture my understanding of a productive, collaborative environment. I expect the code to be followed in spirit as much as in the letter.
 
 ### Scope
 
-This code of conduct applies to all repos and communities for Ultralove open source projects regardless of whether or not the repo explicitly calls out its use of this code. The code also applies in public spaces when an individual is representing a project or its community. Examples include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+This code of conduct applies to all repos and community for my open source projects regardless of whether or not the repo explicitly calls out its use of this code. The code also applies in public spaces when an individual is representing a project or its community. Examples include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by me as the project maintainer.
 
 ### Reporting Code of Conduct Issues
 
-We encourage all communities to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting heiko@panjas.com. Your report will be handled confidentially. In your report please include:
+I encourage the community to resolve issues on their own whenever possible. This builds a broader and deeper understanding and ultimately a healthier interaction. In the event that an issue cannot be resolved locally, please feel free to report your concerns by contacting heiko@panjas.com. Your report will be handled confidentially. In your report please include:
 
 - Your contact information.
 - Names (real, usernames or pseudonyms) of any individuals involved. If there are additional witnesses, please include them as well.
 - Your account of what occurred, and if you believe the incident is ongoing. If there is a publicly available record (e.g. a mailing list archive or a public chat log), please include a link or attachment.
 - Any additional information that may be helpful.
 
-All reports will be reviewed by a multi-person team and will result in a response that is deemed necessary and appropriate to the circumstances. Where additional perspectives are needed, the team may seek insight from others with relevant expertise or experience. The confidentiality of the person reporting the incident will be kept at all times. Involved parties are never part of the review team.
+All reports will be reviewed by me and will result in a response that is deemed necessary and appropriate to the circumstances. Where additional perspectives are needed, I may seek insight from others with relevant expertise or experience. The confidentiality of the person reporting the incident will be kept at all times. Involved parties are never part of the review process.
 
-Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, the review team may take any action they deem appropriate, including a permanent ban from the community.
+Anyone asked to stop unacceptable behavior is expected to comply immediately. If an individual engages in unacceptable behavior, I may take any action I deem appropriate, including a permanent ban from the community.
 
 ---
 
