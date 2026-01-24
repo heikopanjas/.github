@@ -4,7 +4,7 @@
 
 ### Pull Requests Welcome
 
-I welcome contributions through **pull requests only**. If you have suggestions, improvements, or fixes, please submit them as pull requests. I will review each submission and may accept or decline based on relevance and quality.
+I welcome contributions through **pull requests only**. If you have suggestions, improvements, or fixes, please submit them as pull requests. I will review each submission if time allows and may accept or decline based on relevance and quality.
 
 ### No Issues Please
 
